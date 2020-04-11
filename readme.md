@@ -1,7 +1,8 @@
 ## Insid3j0ke
-#### code written and tweaked only by TheMaoci
+#### code written only by TheMaoci 
+__(it could have some already used inventions of coding from others cause its a good way to do it performant and in the name of code speed)__
 
-used libraries
+### Used libraries
 - Assembly-CSharp
 - Comfort
 - Comfort.Unity
@@ -14,7 +15,7 @@ used libraries
 - UnityEngine.PhysicsModule
 - UnityEngine.UI
 
-Source includes:
+### Source includes:
 - player ESP
 - items ESP
 - containers ESP
@@ -43,6 +44,9 @@ Source includes:
 - sessionID renamer
 - betaversion remover / streamer mode
 
+### Description
+this code is still trashy im realising it cause im not gonna use it cause of detection vectors i made in code. Ideas are great code is very optimised, and not lag even with everything turned on (max i get is -20FPS on everything enabled while using FX8320E + 1050Ti)
 
- If you gonna use any of this code include me in your readme with link to this repo. 
+### Disclaimer
+ If you gonna use any of this code include me in your readme with link to this repo, Thanks. 
  Its not meant to be sell to anyone.
