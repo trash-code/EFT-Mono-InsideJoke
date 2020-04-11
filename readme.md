@@ -44,5 +44,5 @@ Source includes:
 - betaversion remover / streamer mode
 
 
-If you gonna use any of this code include me in your creators.
-Its not meant to be sell to anyone.
+ If you gonna use any of this code include me in your readme with link to this repo. 
+ Its not meant to be sell to anyone.
