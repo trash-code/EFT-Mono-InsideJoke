@@ -45,7 +45,7 @@ __(it could have some already used inventions of coding from others cause its a 
 - betaversion remover / streamer mode
 
 ### Description
-this code is still trashy im realising it cause im not gonna use it cause of detection vectors i made in code. Ideas are great code is very optimised, and not lag even with everything turned on (max i get is -20FPS on everything enabled while using FX8320E + 1050Ti)
+this code is still trashy im realising it cause im not gonna use it cause of detection vectors i made in code. Ideas are great code is very optimised, and not lag even with everything turned on (max i get is -20FPS(interchange) on everything enabled while using FX8320E + 1050Ti)
 
 ### Disclaimer
  If you gonna use any of this code include me in your readme with link to this repo, Thanks. 
